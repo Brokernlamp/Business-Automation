@@ -8,6 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Shree Krishna Signs - Business Automation System',
   description: 'High-quality signage and printing solutions since 1991',
+  const metadata = { icons: { icon: '/favicon.png' } };
 }
 
 export default function RootLayout({
